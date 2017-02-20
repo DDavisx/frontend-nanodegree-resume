@@ -38,7 +38,7 @@ var projects = {
     projects: [{
             "title": "Sandy Beach to Go",
             "dates": "2001-2004",
-            "description": "Provide and build a solution that provides Beach side service from a mobile.",
+            "description": "Provide and build a solution that provides Beach side service from a mobile device.",
             "images": ["images/jamaica.jpg", "images/aruba.jpg"]
         },
         {
